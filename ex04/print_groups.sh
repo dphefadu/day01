@@ -1,1 +1,1 @@
-$ groups user_list 
+groups $FT_USER | tr ' ' ','
